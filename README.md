@@ -1,7 +1,7 @@
 # Bandit the Racoon hardware (Eagle Files)
 ## Image
 ![BTR image](https://e-radionica.com/media/catalog/product/m/k/mkf_6637-4.jpg)
-[Bandit the Racoon board(101413)][https://e-radionica.com/en/bandit-the-raccoon-btr.html]
+[Bandit the Racoon board(101413)][board]
 
 ## Description and details
 Bandit the Racoon is a cool looking board made for programming education which eliminates all need to work with hardware - everything is already connected and ready to use on the board. It can be programmed with block programming which is best for programming logic learning and with Arduino programming using Arduino library or using classic Arduino programming.
@@ -32,8 +32,8 @@ Files have been arranged into folders for navigating between different versions 
 Tip: layer 200 shows top silkscreen and layer 208 should be bottom silkscreen. tParts and bParts is not used.
 
 ## Docs
-- [BTR product page][https://e-radionica.com/en/bandit-the-raccoon-btr.html]
-- [BTR Arduino library][https://github.com/e-radionicacom/Bandit-the-Racoon-Arduino-library]
+- [BTR product page][board]
+- [BTR Arduino library][library]
 
 ## Board versions
 - v1.0 - inital version
@@ -44,3 +44,6 @@ For any tech questions, contact us at techsupport@e-radionica.com
 If you find an Issue, please open one at GitHub. If you can improve our product, fork it!
 
 e-r.io Team.
+
+[board]: https://e-radionica.com/en/bandit-the-raccoon-btr.html
+[library]: https://github.com/e-radionicacom/Bandit-the-Racoon-Arduino-library
